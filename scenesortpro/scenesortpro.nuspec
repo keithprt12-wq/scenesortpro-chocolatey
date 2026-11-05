@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>scenesortpro</id>
+    <version>1.4.0</version>
+    <packageSourceUrl>https://github.com/keithprt12-wq/scenesortpro-chocolatey</packageSourceUrl>
+    <owners>SceneSort Pro</owners>
+    <title>SceneSort Pro</title>
+    <authors>SceneSort Pro</authors>
+    <projectUrl>https://scenesortpro.com</projectUrl>
+    <licenseUrl>https://scenesortpro.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://scenesortpro.com</docsUrl>
+    <tags>scenesortpro video duplicate-finder duplicate-videos renamer file-organizer media-library freemium admin</tags>
+    <summary>Organise a big, messy video library offline: find duplicate videos, clean file names and organise folders.</summary>
+    <description><![CDATA[SceneSort Pro organises a big, messy media library on your own Windows 10/11 PC.
+
+## Features
+- **Finds duplicate videos**, including re-encoded or renamed copies (file size, a content fingerprint and sampled frames). You decide what to keep.
+- **Cleans file names** with a side-by-side review before anything changes, with undo.
+- **Organises folders** and lets you browse and search the whole library in one place.
+- **Offline**: no account, no cloud, full undo.
+
+## Licence
+The free edition scans and previews your whole library with no time limit: you see every duplicate and every suggested fix. A one-time Pro licence (US$29, bought at https://scenesortpro.com) applies the fixes and adds Corrupt File Scan and online/AI lookups.
+
+## Notes
+- 64-bit Windows 10/11 only.
+- The installer is about 297 MB (FFmpeg is included).
+]]></description>
+    <releaseNotes>1.4.0: Free scans and previews your whole library with no time limit; Pro applies the fixes. Folders are added from Storage → + Add folder. Duplicate Studios/Performers merge with undo. https://scenesortpro.com</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
