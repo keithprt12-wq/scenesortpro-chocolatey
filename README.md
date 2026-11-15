@@ -15,7 +15,7 @@ choco install scenesortpro
 
 - **Direct installer:** https://scenesortpro.com/download.html
 
-Free to scan and preview every change before anything moves. A Pro licence unlocks bulk apply.
+The free edition scans and previews every fix, with no card and no time limit; Pro applies them.
 
 ## Layout
 - `scenesortpro/scenesortpro.nuspec`: package metadata
