@@ -4,9 +4,18 @@ Source for the [`scenesortpro`](https://community.chocolatey.org/packages/scenes
 
 SceneSort Pro organises a big, messy media library on your own Windows 10/11 PC: it finds duplicate videos, cleans file names and organises folders, all offline. Website: https://scenesortpro.com
 
+## Install
+
+- **Microsoft Store (recommended, automatic updates):** https://apps.microsoft.com/detail/9P1ZR7DXW5TD
+- **Chocolatey:**
+
 ```
 choco install scenesortpro
 ```
+
+- **Direct installer:** https://scenesortpro.com/download.html
+
+Free to scan and preview every change before anything moves. A Pro licence unlocks bulk apply.
 
 ## Layout
 - `scenesortpro/scenesortpro.nuspec`: package metadata
